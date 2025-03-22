@@ -1,0 +1,19 @@
+Bootstrap components
+- one of the most powerful features of Bootstrap
+- learning to use the pre-built and pre-styled components
+- e.g. Buttons, Cards, and Carousels
+
+
+Buttons
+references:
+- https://getbootstrap.com/docs/4.0/components/buttons/
+
+Cards
+reference:
+- https://getbootstrap.com/docs/5.3/components/card/
+
+NavBar
+references:
+- https://getbootstrap.com/docs/5.3/components/navbar/
+- Vite exaples: https://getbootstrap.com/docs/5.3/examples/
+

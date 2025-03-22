@@ -1,0 +1,10 @@
+{
+  "configurations": [
+    {
+      "type": "chrome",
+      "name": "http://127.0.0.1:3000/11.2+Bootstrap+Components/11.2 Bootstrap Components/index-mysolution1.html",
+      "request": "launch",
+      "url": "http://127.0.0.1:3000/11.2+Bootstrap+Components/11.2 Bootstrap Components/index-mysolution1.html"
+    }
+  ]
+}
