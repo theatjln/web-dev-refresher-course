@@ -1,0 +1,9 @@
+Bootstrap Layout Exercises
+
+Exercises 1
+my answer: 
+<!-- Modify the HTML code for the purple boxes below so it behaves like the green ones. -->
+  <div class="row">
+    <div class="col-lg-6">50% desktop, 100% mobile</div>
+    <div class="col-lg-6">50% desktop, 100% mobile</div>
+  </div>

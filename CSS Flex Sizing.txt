@@ -1,0 +1,142 @@
+Flex Sizing
+- how to size the flex-items: shrinking, growing, and how to behave when it's in a responsive situation
+
+
+
+How to customize flex-items size in a flex-box is using a priority list:
+
+Content width < Width < flex-basis < min-width/max-width
+
+
+
+flex-grow: 0; //default, to turn off, set value to 0
+flex-shrink: 1; //default, to turn off, set value to 0
+flex-basis: auto; //default, to turn off, set value to 0 
+
+
+
+flex-grow: 1; 
+flex-shrink: 1; 
+flex-basis: 0;  
+===shorthand -> flex: 1 1 0; or flex: 1;
+
+
+
+example:
+this will show a ratio on how each dive will glow and shrink equally on a screen:
+
+.flex-container {
+    display: flex;
+    gap: 10px;
+}
+
+.flex-item .red {
+    flex: 1;
+}
+
+.flex-item .blue {
+    flex: 2;
+}
+
+.flex-item .green {
+    flex; 3;
+}
+
+
+
+-- shrinking and growing
+
+ 
+-- all elements inside a flex box is called - flex items
+
+
+-- how flex-items sizing are applied based on these attributes for hierarchy:
+===Content width < width < flex-basis < min-width/max-width
+
+
+- max-width means the whole width of the content
+- min-width means the width of the longest one word in the content
+
+- width is the width set for the items inside the flex box
+
+- flex-basis is also the width set for the flex-
+
+
+examples:
+.flex-container {
+    display: flex;
+    gap: 10px;
+}
+
+
+if this is defined:
+.flex-items{
+    flex-basis: 200px;
+    min-width: 300px;
+}
+
+-- the min-width will be followed;
+-- and when we shrink a flex-box with items having flex-basis and min-width, it's not going to shrink less than the min-width 
+
+
+
+if this is defined:
+.flex-items{
+    flex-basis: 100px;
+    flex-grow: 0;
+    flex-shrink: 0;
+} 
+
+-- items don't change their width at all because it can't grow and it can't shrink
+
+
+
+if this is defined:
+.flex-items{
+    flex-basis: 100px;
+    flex-grow: 1;
+    flex-shrink: 0;
+} 
+-- items will stretch to fill 1 part of the width of the container
+-- when shrinked, they won't go any smaller than 100px;
+-- thus, it means they can grow more than 100px but can't shrink less than 100px;
+-- it won't shrink but it will grow;
+
+
+
+if this is defined:
+.flex-items{
+    flex-basis: 100px;
+    flex-grow: 0;
+    flex-shrink: 1;
+}   
+
+-- thus, it means they can shrink from 100px upto the min-width of the content of a flex-item, but can't grow more than 100px;
+-- it won't grow, but it will shrink
+
+
+
+if this is defined:
+.flex-items{
+    flex-basis: 100px;
+    flex-grow: 1;
+    flex-shrink: 1;
+}   
+
+-- it means, flex-basis is totally ignored
+-- flex items can grow or shrink to any size
+
+
+
+flex-basis: auto; // default, it gives more flex-basis to the items which has more content
+flex-basis: 0; // ignores the default and let the flex items have equal width
+
+
+shorthand:
+flex: [grow] [shrink] [basis]
+flex: 1 1 0
+
+shortesthand:
+flex: 1
+
+

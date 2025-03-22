@@ -1,0 +1,27 @@
+/* Write your code here: */
+
+/* TODO 1. User a group selector to change the h1 and h2 color to blueviolet -- GROUP SELECTOR*/
+h1,
+h2 {
+  color: blueviolet;
+}
+
+/* TODO 2. Use the child selector to change the first paragraph color to firebrick --PARENT SELECTOR (applied to direct child)*/
+.box > p {
+  color: firebrick;
+}
+
+/* TODO 3. Use descendant selector to colot the list item elements blue --DESCENDANT SELECTOR (applied to descendants) */
+.box li {
+  color: blue;
+}
+
+/* TODO 4. Use chaining to color the 2nd and 3rd list item seagreen --CHAINING SELECTOR (no space in between selector, apply where all selectors are true; the first item in the chain should always be an element) */
+li.done {
+  color: seagreen;
+}
+
+/* TODO 5. Change "Other items" font to 0.5 rem --COMBINING SELECTORS */
+ul > p.done {
+  font-size: 0.5rem;
+}

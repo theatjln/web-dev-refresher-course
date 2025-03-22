@@ -1,0 +1,75 @@
+CSS Responsiveness
+
+Ways to implement:
+1. Media Queries
+
+@media (max-width: 600px) {
+    /* CSS for screens below or equal to 600px wide */
+}
+
+
+
+2. CSS Grid (good for 2D layouts)
+
+<div class="grid-container">
+    <div class="first card"></div>
+    <div class="card"></div>
+    <div class="card"></div>
+    <div class="card"></div>
+    <div class="card"></div>
+</div>
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 100px 200px 200px;
+    gap: 30px;
+}
+
+.first {
+  grid-column: span 2;
+}
+
+.card {
+background-color: blue;
+}
+
+
+
+3. CSS Flexbox (good for 1D layouts whether horizontally or vertically)
+
+<style>
+
+.flex-container {
+        display: flex;
+      }
+
+      .card {
+        background: blue;
+        border: 30px solid white;
+        height: 100px;
+        flex: 1;
+      }
+
+      .first {
+        flex: 2;
+      }
+
+      .second {
+        flex: 0.5;
+      }
+
+</style>
+
+<div class="flex-container">
+      <div class="first card"></div>
+      <div class="second card"></div>
+      <div class="card"></div>
+      <div class="card"></div>
+    </div>
+
+
+
+4. External Frameworks e.g. Bootstrap (external, not built in to CSS, other people's code)
+
+

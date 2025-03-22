@@ -1,0 +1,20 @@
+Flex
+
+FLOAT (Magazine-style layouts)
+-In modern web design, DON'T USE FLOAT
+-Float is good to use when you want to show an image to upper-left or upper-right corner of a div
+
+
+ 
+FLEXBOX (overall page structure | good for 1D layouts)
+- when you use flexbox, you'll ignore the existing display value of elements and you'll gonna lay down the elements according to your flex direction in the flex box based on their content size
+
+- you can gap (attribute) to put a gap in between the elements inside a flex box
+
+- a container with { display: flex } is more likely a { display: block; width: 100% } element
+
+- you can also set a flexbox to { display: inline-flex }, so it wouldn't occupy the whole 100% of the it's container, it only occupy according to its content size
+
+
+
+

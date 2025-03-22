@@ -1,0 +1,47 @@
+Media Queries
+- Media queries allow you to apply CSS styles depending on a device's media type (such as print vs. screen) or other features or characteristics such as screen resolution or orientation, aspect ratio, browser viewport width or height, user preferences such as preferring reduced motion, data usage, or transparency.
+
+
+@media (max-width: 600px) {
+    h1 {
+        font-size: 15px;
+    }
+}
+
+# this means all screens with 600px or below will have their h1 sized at 15px;
+
+
+
+@media (min-width: 600px) {
+    h1 {
+        font-size: 15px;
+    }
+}
+
+# this means all screens with 600px or more will have their h1 sized at 15px;
+
+
+
+@media (min-width: 600px) and (max-width: 900px) {
+    h1 {
+     color: purple;
+    }
+}
+
+# this means all screens from 600px to 900px will have their h1 is colored purple;
+
+@media (max-width: 600px) and (min-width: 900px) {
+    h1 {
+     color: blue;
+    }
+}
+
+# this means all screens where their biggest screen size is 600px and those screens where their smallest screen size is 900px will have their h1 colored blue;
+
+
+
+Other documentation for media queries
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries/Using_media_queries
+
+Check out object-fit:
+https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit

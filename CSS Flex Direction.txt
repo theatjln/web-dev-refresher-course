@@ -1,0 +1,15 @@
+Flex Direction
+
+- { flex-direction: row } -- default, left to right (main axis), top to bottom (cross-axis)
+
+
+- { flex-direction: column } -- top to bottom (main axis), left to right (cross-axis)
+ 
+
+- .child-element{ flex-basis: 100px; } .container {flex-direction: column; } -- the height of elements will be 100px
+
+
+- .child-element{ flex-basis: 100px; } .container{flex-direction: row; } -- the width of elements will be 100px
+
+
+- when we use any attribute starting with "flex-", we are flexing along the main axis

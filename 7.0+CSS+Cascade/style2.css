@@ -1,0 +1,29 @@
+.outer-box {
+  background-color: #800080;
+  padding: 10px;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+}
+
+.blue-box {
+  background-color: #0000ff;
+}
+
+.yellow-text {
+  color: #ffff00;
+}
+
+.red-box {
+  background-color: #ff0000;
+}
+
+.white-text {
+  color: white;
+}
+
+.box {
+  padding: 10px;
+}

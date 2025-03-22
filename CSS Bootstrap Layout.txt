@@ -1,0 +1,49 @@
+Bootstrap layout
+
+12 Column systems:
+- first, we need a div.container
+- next, div.row which are the row items in the container
+- then, div.col which are the column items in the container
+
+e.g.
+ <div class="container">
+    <div class="row">
+        <div class="col">Hello</div>
+    </div>
+</div>
+
+
+Bootstrap Container (which are responsive)
+.container
+.container-sm 
+.container-md 
+.container-lg 
+.container-xl 
+.container-xxl 
+.container-fluid 
+more can be found here: https://getbootstrap.com/docs/5.3/layout/containers/ 
+
+
+Bootstrap Breakpoints
+reference: 
+- https://getbootstrap.com/docs/5.3/layout/breakpoints/
+- https://getbootstrap.com/docs/5.3/layout/containers/
+
+e.g. 
+col-sm: when the screen width is less than 540px, the col-sm and col-sm- will distribute of occupy the entire width of the screen
+
+
+Multiple Breakpoints
+- in a single div, you can have multiple breakpoints
+
+e.g. for col-sm-12 col-md-8 col-lg-4
+===col-lg-4
+on large screens, would take up 4 columns of the width
+
+===col-md-8 
+on medium devices, would take up 8 columns of the width
+
+===col-sm-12
+on small devices, would take up 12 columns of the width
+
+

@@ -1,0 +1,20 @@
+sample website: https://appbrewery.github.io/css-display
+
+CSS Display
+
+1. display: block -- elements:
+-most elements have this
+-definition: the element is going to take the whole width of their parent element
+
+2. display: inline -- elements:
+- <span></span>
+- you can't set the width and height of these elements because their going to default to the height and width of their content
+
+3. display: inline-block --  elements:
+- block aspect allows us to set the height and width
+- inline aspect allows us to have the element go on to the same line
+- definition: inline block lets you set the height and width of an element but makes it stay on the same horizontal line as long as there is enough space within the width of the webpage
+
+4. display: none
+- definition: using this vanishes the element
+

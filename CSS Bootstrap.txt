@@ -1,0 +1,50 @@
+Bootstrap Framework
+- open source
+
+- an external layout systems
+
+- type of CSS framework
+
+- contained pre-made CSS files which you can simply include into your projects in order to use their pre-built components and styling by adding their styles
+
+- has 12 column layout systems built out of flexbox
+
+
+// Two most popular external CSS Frameworks are:
+1. Bootstrap
+2. Foundation
+
+Others
+3. MUI
+4. Tailwind
+
+
+We actually don't need to know these Frameworks but using External CSS Frameworks has PROS:
+- Easy and fast to use
+- you get a ton of pre-built components
+- you have good browsing compatibility because they've tested all the different browsers (e.g. Safari, Chrome, Brave, etc.)
+
+
+CONS/DOWNSIDES:
+- class bloat (it's really good to separate structure from style)
+- customization 
+    - customizing their pre-built components and layouts could be hard
+    - if you want to build a website where you have full control over every pixel and layout and everything to be exactly the way you design it, External CSS is not a way to go
+
+
+WHEN TO / WHEN NOT TO?
+===WHEN TO:
+- when you are building 
+   - a mobile-first responsive website 
+   - that you want to put online very quickly and access beautiful component 
+   - designed by professional designers 
+   - keeping everything on your website looking slick and uniform
+
+===WHEN NOT TO:
+- if you're building very simple website where you just need HTML/CSS
+- if you're building very complex custom design website and you want complete control over the design
+
+
+How to use Bootstrap?
+Include via CDN (Content Delivery Network)
+- When you only need to include Bootstrap's compiled CSS or JS, you can use jsDelivr ( <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous"> , <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>). 

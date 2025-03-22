@@ -1,0 +1,18 @@
+Grid Item Placement
+- how to layout each grid item and place them in the areas that we want
+
+
+Tracks:
+Row Tracks (grid-template-rows, grid-auto-rows)
+Column Tracks (grid-template-columns, grid-auto-columns)
+
+
+Cell:
+The intersection of Grid Tracks
+Smallest unit in a Grid
+You can use multiple cells to create a grid item
+
+
+Lines (Grid Lines):
+lines that separates tracks
+we can only specify it's size using the grap property

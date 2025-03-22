@@ -1,0 +1,84 @@
+Flex Layout
+
+webpage you can use to check each layout attribute:
+https://appbrewery.github.io/flex-layout/
+
+Flex Layout Cheat Sheet - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+Flex Layout Exercises - https://appbrewery.github.io/flexboxfroggy/ 
+
+
+
+- child-elements will have attributes like:
+
+.chile-elements {
+
+    order: 0;  // by default, everyting has an order of 0, the greater the number, the more the element will show on the last section of the flexbox
+
+
+    flex-wrap: nowrap; // by default, items will be pushed to the end and will not go to the next line
+
+
+    flex-wrap: wrap; // not a very responsive layout, move the child elements that don't have enough space to fit to its full minimum width on to the next 
+
+
+    flex-wrap: wrap-reverse // the last elements are being displayed first and being displayed on starting to te bottom of the flexbox if the main-axis is default/row
+}
+
+
+
+.parent-container {
+    // justify-content is a property/attribute that follows the parent container's main axis
+
+    justify-content: flex-start; // default, sets the distribution of the elements along the main-axis (from left to right if main axis/flex-direction is row)
+    
+
+
+    justify-content: flex-end; // default, sets the distribution of the elements along the main-axis (from right to left if main/flex-direction axis is row)
+
+
+    justify-content: center; // sets the element to the center of the parent container along its main axis
+
+
+    justify-content: space-between; // elements occupy the whole width or height of the container depending on its main axis and automatically setting the gap in between the elements   
+
+
+
+    // align-items is a property/attribute that follows the parent container's cross-axis
+    // but to use this, we need to set the height of a container with a default flex direction: row
+    // height: 70vh means 70% viewport height of the window/screen of the browser
+    // works when { flex-wrap: nowrap; }
+    // e.g. 
+
+    .parent-container {
+        display: flex;
+        flex-wrap: nowrap;
+        height: 70vh;
+        align-items: center;
+    } // this aligns items to the center of a 70vh container along it's cross axis
+    
+
+    align-items: flex-start; // makes child elements bunch up to the top
+    align-items: flex-end; // makes child elements bunch up to the bottom
+    align-items: center; // makes child elements bunch up to the middle
+}
+
+// use the child element property - align-self to ignore the default align-items property of the parent containter.
+    // e.g.
+    .parent-container {
+        display: flex;
+        flex-wrap: nowrap;
+        height: 70vh;
+        align-items: center;
+    }
+    .child-element {  
+        align-self: flex-start;
+    } // all other elements inside the 70vh parent container will show at the center but the .child-element will show at the start along the parent container's cross axis
+
+
+// align-content -- similar to align-items, but only works when .parent-containter { flex-wrap: wrap; }
+
+// flex-flow -- parent container's attribute shortand for 
+.parent-container {
+    flex-flow: [flex-direction] [flex-wrap];
+}

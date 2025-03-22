@@ -1,0 +1,20 @@
+reference: 
+
+
+    Flex                  vs                Grid
+
+Flex
+- tool that helps me align content along a one-dimentional line (1D, e.g. horizonal/vertical)
+- 1D
+
+
+Grid
+- tool to help align content with two-dimention (2D grid, there's x and y)
+- 2D layouts
+- with tables and rows
+
+
+=== you can use both
+
+
+"The only thing that doesn't weigh you down on your travels in life are skills." (Appbrewery's Angela Yu's grandad)

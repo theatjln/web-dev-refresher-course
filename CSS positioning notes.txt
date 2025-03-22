@@ -1,0 +1,18 @@
+sample website: https://appbrewery.github.io/css-positioning/
+
+1. Static
+- HTML default flow
+- means each item/element flows as it would in the <html></html>
+- we can put -- position: static; //but no need because this is a default
+
+2. Relative
+- takes the original position (static positioning) and move it from where it should be
+
+3. Absolute
+- base the position of the nearest positioned ancestor (ancestor has position: relative) || top left corner of the 
+- z-index: another aspect of absolute-positioning that determines which elements go on top of which (the greater the number, the more the element shows)
+- position: absolute is having z-index: 0 if z-index is not set;
+
+4. Fixed 
+- base the position to the top left corder of browswer window
+- defaulted to the browswer

@@ -1,0 +1,9 @@
+Float
+
+float: left or float: right
+
+clear: left;
+-- used to ignore the element with { float: left }
+
+clear: both;
+-- if there are elements with { float: left } and { float: right }, they are both going to be ignored no matter the size of the screen

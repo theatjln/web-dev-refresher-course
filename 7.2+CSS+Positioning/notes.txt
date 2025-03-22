@@ -1,0 +1,13 @@
+1. position: static; //default position of all elements
+
+2. position: relative; //the element will be relative to the position to it's own default position 
+
+3. position: absolute; //the element will be absolute to it's ancestor element which has a "position: relative"; 
+
+if there's no ancestor with "position: relative;", the element with "position: absolute;" will follow the screen as ancestor.
+
+when you set an element with "position: absolute;", you take it out from the HTML original flow and puts it on another layer. So, using "z-index: 0;" might just not work.
+
+4. position: fixed; // relative to the top left corner of the browser window;
+
+even if you scroll up and down, it will remain to it's position
