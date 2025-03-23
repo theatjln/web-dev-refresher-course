@@ -1,0 +1,56 @@
+User Interface (UI) Design
+
+Manage ATTENTION with effective User Interface (UI) Design
+(H.L.A.W.A)
+(H.ierarchy--L.ayout--A.lignment--W.hitespace--A.udience)
+
+
+1. HIERARCHY
+- we're always drawn to the bigger, bolder, and squarer things
+    - as designers, we can use this knowledge to define hierarchy
+
+Ways to use HIERARCHY:
+- in COLOR
+    - e.g. ecommerce website with gray and white palette, but when it comes to "Add to Cart" and "Locations" buttons, they purposely made it Red and Green
+
+- in SIZE
+    - The bigger items draws eyes to it
+    - e.g. coinbase website ( https://www.coinbase.com/ ), the heading is the biggest ("The future of money is here.")
+
+
+
+2. LAYOUT
+    - Bad layout design - Wikipedia website (length of each line is so long)
+    - Good layout design - Grammarly website 
+
+
+
+3. ALIGNMENT
+    - how you position each of the elements on the screen relative to each other
+        - e.g.
+            - Bad alignment - center-aligned HEADING but left-aligned BODY text
+            - Good alignment - both left-aligned HEADING and BODY TEXT
+    - just reduce the number of alignment points (looks a lot more professional)
+
+
+
+4. WHITESPACE
+    - refers to the empty spaces around texts altogether
+    - just by adding whitespaces, you can make that design a lot more minimalist or elevated
+
+
+
+5. AUDIENCE
+    - design for your audience
+    - think about your audience, think about what appeals to them and what's important to them 
+    - e.g.
+        - Bad design - Children's party invitation card - with black and white themed invitation card
+        - Good design - Children's party invitation card - with colorful themed with party symbols invitation card
+
+
+
+----------------------------------------------------------------
+GOOD WEB DESIGN PRACTICE 
+- use 30 - 40 characters per line
+- both left-aligned HEADING and BODY TEXT or both center-aligned HEADING and BODY TEXT
+- just reduce the number of alignment points (looks a lot more professional)
