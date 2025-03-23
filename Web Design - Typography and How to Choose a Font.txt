@@ -1,0 +1,150 @@
+Typography and How to Choose a Font
+
+FONTS MATTER
+- It's important to consider the 
+    - mood, 
+    - how to combine different fonts, and 
+    - it's an easy way to make your designs look better and sleek
+
+
+TYPES OF FONTS:
+
+===SERIF family
+- they have little feet at end of their central beams
+- inspired by the marble carvings of Days of Yore
+- making design look:
+    - more serious, 
+    - more authoritative
+    - older
+- good for 
+    - letterhead for a legal company
+    - magazine for architectural design
+
+==Subframilies of SERIF Typefaces==
+- OLD STYLE
+    - if you want a website to look OLDER or AGED (e.g. winery)
+
+- TRADITIONAL
+
+- MODERN
+    - if you want to look AUTHORITATIVE but MODERN 
+
+- SLAB-SERIF
+
+----------------------------------------------------------------
+-You'll actually know how old a typeface is by looking at the difference between the thickest and the thinnest parts of each letter.
+    - the thinner the thinnest part of the typeface, the more modern it is.
+
+
+Designers tend to be using Sans-Serif for the body text to make the words more legible / readable.
+
+===SANS-SERIF family:
+- they don't have serifs/little feet on their central beams
+- they have perfect right angles
+- it's this right angles that make Sans-Serif family looks so much:
+    - more friendly
+    - more approachable
+    - more novel
+    - more contemporary
+
+
+
+==Subframilies of SANS-SERIF Typefaces==
+- Gill Sans 
+    - Humanist (easier for people to understand)
+        - can use for body texts (e.g. Sales Pitch)
+
+- News Gothic
+    - Grotesque
+
+
+
+----------------------------------------------------------------
+- Readability and legibility is important when you're choosing fonts
+- When looking for legibility, look for: 
+    - Open shapes
+    - a lot of spacing between each of the letters
+    - unambiguous forms
+    - varying proportions
+
+
+----------------------------------------------------------------
+- Sometimes, people choose to go overboard and use 10 fonts in the same designs 
+    - this makes design very cluttered and unprofessional
+    - IT'S GOOD TO STICKING TO JUST "2 FONTS" in one design
+
+- Find Fonts that has similar Moods to Each other
+
+
+
+----------------------------------------------------------------
+Examples:
+- VOGUE Magazine (uses Didot, which is a Modern serif typeface)
+
+
+
+
+----------------------------------------------------------------
+THE EMOTION BEHIND FONTS
+
+===SERIF emotion:
+- Minion Pro (Traditional)
+- Trojan (Stable)
+- Baskerville (Respectable)
+
+
+
+===SANS-SERIF emotion:
+- Helvetica (Sensible)
+
+- Avenir (Simple)
+
+- Din (Straightforward)
+
+
+
+===SCRIPT emotion:
+- Freestyle Script (Personal)
+
+- Adios Script Pro (Creative)
+
+- Snell Roundhand (Elegant)
+
+
+
+===DISPLAY emotion:
+- Vag Rounded (Friendly)
+
+- Gin (Loud)
+
+- Thirsty Rough (Amusing)
+
+
+
+===MODERN emotion:
+- Sackers Gothic (Stylish)
+
+- Gotham (Chic)
+
+- Futura (Smart)
+
+
+----------------------------------------------------------------
+Examples of Fonts with SIMILAR moods:
+- Andes (for heading text) and Bougan (for body text) --- mood
+- Garamond (for heading text) and Ocean Sans Std (for body text) --- time era
+
+----------------------------------------------------------------
+Examples of Fonts with CONTRASTS moods:
+- Myriad (for heading text) and Minion (for body text) --- serif-ness
+- Geneva (for heading text) and Dallas (for body text) --- weights
+
+
+----------------------------------------------------------------
+DON'T USE THESE FONTS:
+- Kristen
+- Comic Sans
+- Papyrus
+- Viner
+- Curlz
+- Eunboy
