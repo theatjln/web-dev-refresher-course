@@ -19,7 +19,6 @@ think of:
     - BETTER SIMPLICIY UX "news" website - Monocle
 
 
-
 2. CONSISTENCY
 - keep the design consistent
 - always keep the functionality of your product consistent
