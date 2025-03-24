@@ -1,0 +1,77 @@
+User Experience (UX) Design
+(S.C.R.A.D.)
+(S.implicity--C.onsistency--R.eading Patterns--A.all Platform Design--D.on't use your powers for evil)
+
+What is UX?
+- makes things effortless, easy, or seamless
+
+Design VS User Experience:
+- design is AESTHETICS
+- UX is FUNCTION
+
+
+How to implement UX:
+think of:
+1. SIMPLICITY:
+- keeping things simple is always better than making things more complex or more cluttered
+- e.g. 
+    - BAD SIMPLICIY UX "news" website - news.sina.com.cn (News website in China)
+    - BETTER SIMPLICIY UX "news" website - Monocle
+
+
+
+2. CONSISTENCY
+- keep the design consistent
+- always keep the functionality of your product consistent
+- e.g. 
+    - BAD CONSISTENCY website - Xfinity website (big communications company in the US)
+
+
+
+3. READING PATTERNS (of the users)
+- F pattern / F - LAYOUT
+    - where the eyes starts at the left corner
+    - and then tracks ther ight
+    - and then it flips back again browsing down the left gutter
+        - SO, HAVE THE MOST IMPORTANT PART AT THE LEFT gutter
+        - HAVE THE LOGO AT THE TOP
+    - e.g.
+        - good for textual websites
+
+- Z - PATTERN
+    - where it starts from left to right
+    - dragging down diagonally all the way down the website
+    - e.g.
+        - if your website has more sparce or VIDEO content, use this pattern
+        - e.g. 
+            - used by Facebook website
+        
+
+
+4. ALL PLATFORM DESIGN
+    - not just think about the design of the website on the desktop, think of the mobile too
+
+
+
+5. DON'T USE YOUR POWERS FOR EVIL
+    - e.g. 
+        - Dark patterns 
+            - in the design world, patterns that gets a user to perform action or behavior that is beneficial to the company or the designer (and not necessarily what the user wants, this is another form of bad user experience)
+                - e.g.
+                    - purposely putting a flaw/seemingly hair/dirt on a design so a user will click on it to redirect to do an action
+                        - because more clicks, more engagement on the website
+
+                    - Ryanar (European Airlines)
+                        - low-cost Airline known for charging you for every little thing in the UK
+                        - tricking you to pay extra by hiding all the access to remove the extra fees/features on buying a plane ticket
+
+                    - long nonsense checkboxes texts
+                        - e.g.
+                            - "If you would like us to no longer continue to stop not sending you special deals and offers every week, please indicate you are inclined to yes by not checking the box."
+
+
+    - good user experience design helps people to do what they actually want to do and giving you good experience while you're at it
+
+
+
+
