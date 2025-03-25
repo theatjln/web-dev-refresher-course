@@ -89,4 +89,4 @@ Modern JS
 - used in all sorts of places - frontend and backend (before it's only used for frontend)
 
 
-JavaScript is supported by all of the major browsers (Chrome, Firefox, Internet Explorer, Safari, Opera)
+JavaScript is supported by all of the major browsers (Chrome, Firefox, Internet Explorer, Safari, Opera)a

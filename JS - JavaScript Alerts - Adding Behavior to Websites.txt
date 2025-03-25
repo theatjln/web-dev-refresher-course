@@ -1,0 +1,19 @@
+JavaScript Alerts - Adding Behavior to Websites
+
+- JS "alert()" needs "CTRL + Shift" to execute multiline of code
+    - solution: use Snippets
+        - how: go to "Developer Tools" > "Sources" > ">>" > Snippets > Create a new snippet file (e.g. index.js) >
+        - enter your code in the new snippet file
+        - hit "CTRL + Enter" to run it
+
+- in "alert("Hello");" :
+the syntax says:
+--alert is the function that pop ups something on the browser
+--Hello is the string
+--; is the end
+
+
+Best practice in stylistic coding:
+Reference: https://github.com/rwaldron/idiomatic.js 
+
+"All code in any code-base should look like a single person typed it, no matter how many people contributed." (https://github.com/rwaldron/idiomatic.js)
