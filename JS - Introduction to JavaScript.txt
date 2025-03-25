@@ -1,0 +1,92 @@
+Introduction to JavaScript
+
+JavaScript (the language that POWERS THE WEB)
+
+
+NetScape Navigator
+- the browser that dominated the 90s
+
+Airbnb, Skype, Twitter, Facebook, Slack
+- there was one company that invested in all of these startups --> Andreessen Horowitz
+
+Andreessen refers to Mark Andreessen who was one of the principle makers of the NetScape Navigator 
+
+
+
+Mosaic
+- browser way before Chrome, Firefox, Safari, and Internet Explorer
+- Mark Andreessen worked on this browser even when he was just in University
+
+
+When Mark finished the University, he began to work on the NetScape Navigator
+
+NetScape Navigator held the 80% of the Marketshare in terms of browser usage.
+
+
+Subsequently, there was a huge browser war:
+NetScape vs Internet Explorer (winner)
+
+
+Firefox
+- After NetScape died, Firefox birthed
+- opened the beginning of web browsing
+
+
+
+1995
+- when HTML websites were all form and no function 
+- before, when a website needs a functionality like retrieving what you've searched for or just calculating something or converting between different units, the website has to send requests to data servers (where computations and business logic happens) which returns to the webpate the new data.
+
+
+
+NetScape Team
+- envision a future where the web browser is more dynamic with animations and real-time user interaction
+    - to enable this, we need to take the server and have the code to run on the browser 
+    - to do this, they need to make a small scripting language which is:
+        - simple
+        - really easy so non-developers/non-programmers could use it to add functionality to websites.
+        - They contracted -Brendan Eich- to create this language.
+
+
+
+JavaScript language
+- created by Brendan Eich in 10 days.
+
+- JavaScript will make sites interactive.
+
+- Disabling JavaScript will also help you end-up having ad-free experience on your website
+For Chrome > Settings > Site Settings > JavaScript > Click "Don't allow sites to use JavaScript."
+- But some sites don't load without JavaScript.
+
+- JavaScript names before it was called JavaScript:
+    - LiveScript
+    - JScript
+    - ECMAScript (standardized name created by the Europeans; stands for European Computer Manufacturers Association script)
+        - where the ES versioning of JavaScript came from (e.g. Es5, Es6, etc.)
+
+
+Java vs JavaScript
+- Java and JavaScript does not relate to each other
+- They only used JavaScript name because in the 90s, "Java" is as hot as "Blockchain."
+- JavaScript is an interpreted programming language, Java is a compiled programming language.
+
+
+
+Interpreted (in the old days, these are toy languages, words are powerful but slow, and they have to execute all instructions line by line):
+- JavaScript
+- Python
+- Ruby
+
+
+Compiled (most serious languages that runs very fast programs)
+- Java
+- C/C++
+- Swift
+
+
+
+Modern JS
+- used in all sorts of places - frontend and backend (before it's only used for frontend)
+
+
+JavaScript is supported by all of the major browsers (Chrome, Firefox, Internet Explorer, Safari, Opera)
