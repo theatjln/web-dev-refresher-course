@@ -1,0 +1,27 @@
+Data Types
+- a way of classifying data to tell the computer how to the programmer tends to use the data 
+
+
+Different Data Types:
+1. String
+- a string of characters
+e.g. "Hello, world!"
+
+
+2. Numbers
+- represents numbers as data 
+e.g. 1,2,3
+
+
+3. Boolean
+- describes data that is either true or false
+
+you can use the typeof() function to know what is the data type of the value passed inside the ()
+e.g.:
+typeof(123) ---> result: "number"
+typeof("Nice") ---> result: "string"
+typeof(true) ---> result: "boolean"
+
+
+
+
