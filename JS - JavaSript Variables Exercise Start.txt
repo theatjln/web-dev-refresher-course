@@ -1,0 +1,5 @@
+JavaScript Variables Exercise Start
+
+answer this coding exercise: https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/quiz/4807193#content 
+
+switch the values of the variables a and b
