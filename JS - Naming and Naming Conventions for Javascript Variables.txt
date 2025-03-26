@@ -1,0 +1,29 @@
+Naming and Naming Conventions for Javascript Variables
+
+How you should name your variables to follow the best practices for naming conventions:
+
+1. Give your variables meaningful names
+- so that anybody can figure out quite easily what is the data that's likely to be stored inside it.
+
+
+2. You can't use keywords as name of your variables (e.g. var --- error: Uncaught SyntaxError: Unexpected token var)
+
+but you can use variables that contains keywords as (e.g. myVar)
+
+
+3. Variable name cannot begin with a number:
+e.g. var 1234 = 1234 --- error
+
+
+4. Variable name contain spaces in between:
+e.g. my name = "Nica" --- error
+
+
+5. Variable names can only contain letters numbers, "$", and "_"; no other symbols are valid characters
+
+
+6. use camelCasing
+
+
+
+
