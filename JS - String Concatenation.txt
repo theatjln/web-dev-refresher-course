@@ -1,0 +1,7 @@
+String Concatenation
+- joining strings into one string
+
+String Concatenation implementation:
+
+"+": "a" + "b" == "ab"
+
