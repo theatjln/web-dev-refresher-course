@@ -1,0 +1,33 @@
+JavaScript Variables
+
+Variables
+- way to save data that you can use in the future
+
+
+Variable syntax:
+
+var myName = "Nica";
+where:
+var - is the Keyword used to CREATE a data container - variable
+
+= - the symbol to assign the value to a variable
+
+myName - is the Variable name
+
+"Nica" - is the data value
+
+
+Exercise:
+- print the value of a variable using alert(). 
+Answer:
+var myName = "Nica";
+alert(myName);
+
+
+- Exercise:
+save whatever the user types in a variable and use it again
+Answer:
+var yourName = prompt("What is your name? ")
+alert("Hi", yourName);
+
+
