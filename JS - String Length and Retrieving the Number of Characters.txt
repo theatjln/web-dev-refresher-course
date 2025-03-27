@@ -1,0 +1,19 @@
+String Length and Retrieving the Number of Characters
+
+length
+- the property of a string that will help us know how many characters in a string
+- e.g.
+var word = "hi"
+word.length ---> result: 2
+
+Exercise: 
+Write a JS code to:
+- TODO 1: create prompt where the user can enter a long string (e.g. a paragraph of text from a blog post)
+- TODO 2: you will tell them how many characters they have written
+- TODO 3: how many characters they have remaining out of 140 or 280 characters
+- TODO 4: show an output of "You have returned 182 characters, you have -42 (140 - 182 characters left
+
+My answer:
+var textInput = prompt("Enter your blog post here: ")
+
+alert("You have returned " + textInput.length + ", you have " + (140 - textInput.length) + " left.")
